@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><app id="lrfmediaplayer" name="LogoRemakeFour Media Player" version="1.0"><entry>lrfmediaplayer.html</entry><features>Record, Play, Pause, Back 10 Seconds, Next 10 Seconds, Progress, Volume Low, Volume High</features><logo>https://logoremakefourlrf.github.io/computer-emulator/start.webp</logo><accept>audio/*,video/*</accept></app>

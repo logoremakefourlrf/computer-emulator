@@ -1,0 +1,2 @@
+/* Home-screen search and desktop shortcuts. */
+document.addEventListener('DOMContentLoaded',()=>{const search=document.querySelector('#app-search');search?.addEventListener('input',()=>{const q=search.value.toLowerCase();document.querySelectorAll('.pinned-grid [data-open]').forEach(x=>x.hidden=!x.textContent.toLowerCase().includes(q))});document.querySelectorAll('.desktop-icon').forEach(x=>x.addEventListener('dblclick',()=>location.href=x.dataset.open))});

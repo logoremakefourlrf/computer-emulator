@@ -1,0 +1,1 @@
+window.LRFAboutComputer={edition:'LogoRemakeFour Computer',version:'1.0',platform:'LRF Computer Web Edition'};

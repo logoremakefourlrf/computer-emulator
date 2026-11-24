@@ -1,0 +1,1 @@
+window.LRFDevice={name:()=>localStorage.getItem('lrf:deviceName')||'LRF Computer',edition:'LogoRemakeFour Computer'};

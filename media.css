@@ -1,0 +1,2 @@
+/* Responsive media controls use native range elements for accessibility. */
+input[type=range]{accent-color:#998cff}

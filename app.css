@@ -1,0 +1,2 @@
+/* Small-screen layout overrides */
+@media(max-width:520px){.app-header{padding:0 15px}.control-panel h1,.settings-content h1{font-size:31px}}

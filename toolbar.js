@@ -1,0 +1,2 @@
+/* Desktop toolbar shared clock and Start menu behavior. */
+document.addEventListener('DOMContentLoaded',()=>{const button=document.querySelector('#start-button'),menu=document.querySelector('#start-menu');button?.addEventListener('click',()=>{if(menu)menu.hidden=!menu.hidden});const clock=document.querySelector('#tray-clock');const update=()=>{if(clock)clock.textContent=new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})};update();setInterval(update,15000)});

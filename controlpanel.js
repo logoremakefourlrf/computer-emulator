@@ -1,0 +1,1 @@
+/* Control Panel navigation is implemented with semantic links in controlpanel.html. */

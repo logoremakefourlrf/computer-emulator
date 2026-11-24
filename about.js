@@ -1,0 +1,1 @@
+window.LRFAbout={name:'LogoRemakeFour',device:'LRF Computer'};

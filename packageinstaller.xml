@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><app id="packageinstaller" name="Package Installer" version="1.0"><description>Install an LRF Computer application package.</description><supportedPackage>*.xml</supportedPackage><requiresConfirmation>true</requiresConfirmation></app>

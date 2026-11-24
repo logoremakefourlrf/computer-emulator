@@ -1,0 +1,2 @@
+/* Additional UI hooks for future app panels. */
+[hidden]{display:none!important}.desktop-icon:focus-visible,button:focus-visible,a:focus-visible,input:focus-visible,textarea:focus-visible{outline:2px solid #b1a9ff;outline-offset:2px}

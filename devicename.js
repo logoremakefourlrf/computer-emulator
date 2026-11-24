@@ -1,0 +1,1 @@
+window.LRFDeviceName={defaultName:'LRF Computer'};
